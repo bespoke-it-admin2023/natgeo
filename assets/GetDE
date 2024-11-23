@@ -1,0 +1,1 @@
+var country = "philippines"; var countryisocode = "phl"; var state = "cavite"; var metro = "no metro"; var metrocode = "0"; var postcode = "1630"; var offset = "800"; var dst = "n"; var countrycode = "608"; var connection = "mobile"; 
